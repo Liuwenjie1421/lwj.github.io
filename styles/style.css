@@ -1,0 +1,36 @@
+html {
+    font-size: 10px;
+    font-family: 'Noto Sans SC', sans-serif;
+    background-color: #dae0e5;
+  }
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  p, li {
+    font-size: 16px;
+    /* line-height 后面可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
